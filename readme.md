@@ -1,0 +1,3 @@
+* cd ~; git clone ...
+* 安装pass apt-get install pass
+* gpg导入私钥: gpg --import secret-key
